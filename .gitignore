@@ -31,6 +31,6 @@ hs_err_pid*
 .idea/workspace.xml
 .idea/vcs.xml
 
-pom.xml
-src/
+!pom.xml
+!src/
 target/
